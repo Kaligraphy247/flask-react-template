@@ -1,0 +1,9 @@
+# venv
+bin/
+include/
+lib/
+!/frontend/lib
+pyvenv.cfg
+
+# Python Tools
+pyrightconfig.json
